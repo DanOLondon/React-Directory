@@ -1,0 +1,1 @@
+CD into package.json then npm install then npm start. if using github you may need to process some fixes of the githib app
